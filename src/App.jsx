@@ -1,6 +1,8 @@
 
-import NavBar from './Componentes/NavBar/NavBar';
-import ItemListContainer from './componentes/ItemListContainer/ItemListContainer';
+import NavBar from '/src/Componentes/NavBar/NavBar';
+import ItemListContainer from "/src/Componentes/ItemListContainer/ItemListContainer";
+
+
 
 
 
